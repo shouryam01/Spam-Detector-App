@@ -118,9 +118,6 @@ The project consists of the following main files:
 * **Logging:** Implement logging to track application usage and potential errors.
 * **Error Handling:** Add more robust error handling.
 
-##  License
-
-[Specify the license for your project, e.g., MIT License]
 
 ##  Author
 Shouryam Sankritya
